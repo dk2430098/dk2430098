@@ -78,9 +78,9 @@ I love the thrill of **Red-Green-Refactor** cycles in TDD and have helped improv
 # 📊 GitHub Status:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dk2430098&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Deepak's Stats" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dk2430098&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Deepak's GitHub Stats" height="175" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk2430098&layout=compact&theme=radical&hide_progress=false" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dk2430098&layout=compact&theme=radical" alt="Top Languages" height="175" />
 </p>
 
 <p align="center">
