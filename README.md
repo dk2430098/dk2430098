@@ -91,9 +91,10 @@ I love the thrill of **Red-Green-Refactor** cycles in TDD and have helped improv
 
 ### 🏆 Competitive Programming Status:
 <p align="left">
-<a href="https://leetcode.com/dk2430098"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-<a href="https://www.codechef.com/users/dk2430098"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/dk2430098"><img src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/dk2430098/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://codeforces.com/profile/dk2430098"><img src="https://img.shields.io/badge/-Codeforces-1f8acb?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/dk2430098"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/dk2432nn7"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
 </p>
 
 ---
