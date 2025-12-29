@@ -1,79 +1,44 @@
-# 💫 About Me
+# 💫 About Me:
+### Hi there! 👋
 
-Hi! I’m **Deepak Kumar**, a **Computer Science Engineering student at NIT Manipur (CGPA: 8.3)** with a strong passion for building **scalable, real-world software solutions**. I enjoy solving complex problems and transforming ideas into reliable, production-ready applications.
+I'm **Deepak Kumar**, a Computer Science Engineering student at **NIT Manipur (CGPA: 8.3)**. 
+🚀 Passionate about **DSA, Full-Stack Web Development, System Design, and AI/ML**.
 
-I have hands-on experience in **Full-Stack Development, Backend Engineering, and System Design**, with strong fundamentals in **Data Structures and Algorithms**. I’ve worked on impactful projects, participated in national-level competitions, and contributed to research in emerging technologies.
+### 🔍 Looking to Collaborate On:
+- Open-source projects & Scalable Web Apps
+- Competitive programming (ICPC/SIH prep)
+- AI/ML research and integration (IEEE Research background)
 
----
+### 🤝 Looking for Help With:
+- Advanced **System Design** patterns
+- Performance tuning for high-throughput applications
+- Scaling production-ready software solutions
 
-## 💼 Experience
+### 📚 Currently Learning:
+- **Advanced DSA & Low-Level Design (LLD)**
+- Full-stack web development (**MERN & Next.js**)
+- **Cloud Computing** (AWS/Azure certifications)
 
-### **Software Engineering Intern – Incubyte**
-- Built a full-stack Sweet Shop Management System using **TDD** (25+ Red-Green-Refactor cycles).  
-- Developed and optimized **10+ REST APIs** with JWT authentication and 95% test coverage.  
-- Improved system performance and reliability through clean, scalable architecture.
+### ❓ Ask Me About:
+- **Competitive Programming** (LeetCode 1700+, CodeChef 4★)
+- **Full-Stack Development** (TDD, REST APIs, JWT)
+- **Hackathons** (Flipkart GRiD National Semi-Finalist)
 
-### **System Developer – Smart Health Referral System (Govt. of India)**
-- Designed a real-time healthcare referral platform for 20+ tribal regions.  
-- Implemented live ambulance tracking and hospital availability monitoring.  
-- Built secure Aadhaar/ABHA-based authentication and improved reporting accuracy by 60%.
-
----
-
-## 🚀 Projects
-
-### **IMeet – Video Interview Platform**
-- Real-time video, audio, and collaborative coding platform.  
-- Built with **React (Next.js), Convex, Clerk, Stream**.  
-- Supports 500+ concurrent users with <200ms latency.  
-- CI/CD-enabled deployment with scalable architecture.
-
-### **Student Feedback Portal**
-- High-throughput feedback and complaint management system.  
-- Built using **Node.js, Express, MongoDB**, and cloud storage.  
-- Integrated AI-powered chatbot for automated query handling.
+### 🎉 Fun Fact:
+I've solved over **1000+ DSA problems** and love the thrill of Red-Green-Refactor cycles in TDD! 🚀
 
 ---
 
-## 🏆 Achievements
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-- 🥇 **Flipkart GRiD 7.0 – National Semi-Finalist**  
-- 📄 **IEEE CICT 2025 – Research Publication**  
-- 🧠 Solved **1000+ DSA problems**  
-- 🏅 ICPC (College Rank 2), SIH Qualifier, KIMO Tech Winner  
+# 📊 GitHub Stats:
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=dk2430098&show_icons=true&theme=radical)
 
----
-
-## 🧠 Competitive Programming
-- **LeetCode:** 1700+  
-- **CodeChef:** 4★  
-- **Codeforces:** 1400+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk2430098&layout=compact&theme=radical)
 
 ---
-
-## 💻 Tech Stack
-
-**Languages:** C, C++, Python, JavaScript  
-**Frontend:** HTML, CSS, React, React Native, Redux  
-**Backend:** Node.js, Express, REST APIs, JWT, Clerk  
-**Databases:** MongoDB, PostgreSQL, MySQL  
-**Tools:** Git, GitHub, Docker, Postman, Vercel, AWS  
-**Concepts:** DSA, OOP, DBMS, OS, System Design  
-
----
-
-## 🎓 Education
-
-**B.Tech in Computer Science & Engineering**  
-*NIT Manipur* — CGPA: **8.3**
-
----
-
-## 📬 Contact
-📧 **Email:** deepakkumar@nitmanipur.ac.in  
-🌐 **Portfolio:** https://portfolio-sandy-sigma-i6rqbrkbdg.vercel.app  
-🔗 **GitHub:** https://github.com/dk2430098  
-
----
-
-⭐ *Always eager to learn, build, and create meaningful technology.*
+### 📬 Connect with me:
+📧 **Email:** deepakkumar@nitmanipur.ac.in
+🔗 **Portfolio:** [Visit Portfolio](https://portfolio-sandy-sigma-i6rqbrkbdg.vercel.app)
+🔗 **LinkedIn:** [Deepak Kumar](https://linkedin.com/in/your-username-here)
