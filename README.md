@@ -77,14 +77,17 @@ I love the thrill of **Red-Green-Refactor** cycles in TDD and have helped improv
 - **Operating Systems (OS)**
 # 📊 GitHub Status:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dk2430098&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Deepak's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk2430098&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dk2430098&show_icons=true&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="Deepak's Stats" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dk2430098&layout=compact&theme=transparent&hide_border=true&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="Top Languages" height="150" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk2430098&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk2430098&theme=transparent&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub Streak" />
 </p>
+
+---
 
 ### 🏆 Competitive Programming Status:
 <p align="left">
