@@ -84,7 +84,7 @@ I love the thrill of **Red-Green-Refactor** cycles in TDD and have helped improv
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dk2430098&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-five-three.vercel.app/?user=dk2430098&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
